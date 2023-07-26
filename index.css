@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#ty {
+    color: orange;
+    margin-bottom: 9px;
+}
+
+h1 {
+    margin-bottom: 50px;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 45px;
+}
+
+.type {
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+#td {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: orange;
+}
+
+#pp {
+    color: orange;
+    margin-top: 10px;
+    margin-bottom: 17px;
+}
